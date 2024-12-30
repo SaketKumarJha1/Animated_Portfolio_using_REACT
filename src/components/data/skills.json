@@ -16,23 +16,21 @@
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
+      "title": "Bootstrap",
+      "imageSrc": "skills/figma.png"
+     
     },
     {
-      "title":"Firebase",
+      "title":"C++",
       "imageSrc":"skills/firebase.png"
     },
     {
-      "title": "GraphQL",
+      "title": "C",
       "imageSrc": "skills/graphql.png"
     },
     {
-      "title": "MongoDB",
+      "title": "SQL",
       "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
     }
+   
   ]
